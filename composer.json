@@ -1,0 +1,17 @@
+{
+    "require": {
+        "kahlan/kahlan": "^3.1"
+    },
+    "autoload": {
+        "files": [
+            "Solutions/Exercise1a.php",
+            "Solutions/Exercise1b.php",
+            "Solutions/Exercise1c.php",
+            "Solutions/Exercise1d1f1g.php",
+            "Solutions/Exercise1e.php"
+        ]
+    },
+    "scripts": {
+        "test": "./runTests"
+    }
+}
