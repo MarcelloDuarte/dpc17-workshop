@@ -4,11 +4,11 @@
     },
     "autoload": {
         "files": [
-            "Solutions/Exercise1a.php",
-            "Solutions/Exercise1b.php",
-            "Solutions/Exercise1c.php",
-            "Solutions/Exercise1d1f1g.php",
-            "Solutions/Exercise1e.php"
+            "Lesson1/Exercise1a.php",
+            "Lesson2/Exercise2a.php",
+            "Lesson2/Exercise2b.php",
+            "Lesson2/Exercise2c2e2f.php",
+            "Lesson2/Exercise2d.php"
         ]
     },
     "scripts": {
